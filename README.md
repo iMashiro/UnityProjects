@@ -11,11 +11,15 @@
 - [Projects](#applications)
 - [License](#license)
 
-### modulo06 - Application to see GitHub user info.
+### Week 2 - Solar System
 
 <a><img src="https://github.com/iMashiro/UnityProjects/blob/master/MediaFiles/SolarSystem.PNG"></a>
 
+### Week 3 - Roller Madness
+
 <a><img src="https://github.com/iMashiro/UnityProjects/blob/master/MediaFiles/RollerMadness.PNG"></a>
+
+### Week 4 - Box Shooter
 
 <a><img src="https://github.com/iMashiro/UnityProjects/blob/master/MediaFiles/BoxShooter.PNG"></a>
 
