@@ -13,6 +13,8 @@
 - [Projects](#applications)
 - [License](#license)
 
+## Intro to Game Development
+
 ### Week 2 - Solar System
 
 <a><img src="https://github.com/iMashiro/UnityProjects/blob/master/MediaFiles/SolarSystem.PNG"></a>
@@ -25,7 +27,7 @@
 
 <a><img src="https://github.com/iMashiro/UnityProjects/blob/master/MediaFiles/BoxShooter.PNG"></a>
 
-#### Unity Specialization
+## Unity Specialization
 
 ### Asset Creation and Management
 
