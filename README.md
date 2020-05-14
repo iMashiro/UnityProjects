@@ -4,6 +4,8 @@
 
 > Unity Projects from course - Intro to Game Development! - Coursera.
 
+> Unity Certified 3D Artist - 5 Courses: Asset Creation and Management
+
 > Unity, Unity3d, Games
 
 ## Table of Contents
@@ -22,6 +24,12 @@
 ### Week 4 - Box Shooter
 
 <a><img src="https://github.com/iMashiro/UnityProjects/blob/master/MediaFiles/BoxShooter.PNG"></a>
+
+#### Unity Specialization
+
+### Asset Creation and Management
+
+<a><img src="https://github.com/iMashiro/UnityProjects/blob/master/MediaFiles/Kitchen%2001.PNG"></a>
 
 ### Clone
 
